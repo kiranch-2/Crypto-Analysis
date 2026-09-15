@@ -1,20 +1,23 @@
-# ARR — Crypto Research
+# Pirate Chain (ARRR) — Crypto Research
 
-This folder contains research and analysis related to ARR.
+This folder contains research and analysis of Pirate Chain (ARRR), a privacy-focused cryptocurrency.
 
 ## Areas of Research
 
-* Project overview
-* Technology
-* Token utility
+* Project Overview
+* Privacy Technology
+* zk-SNARKs
+* Blockchain & Network
 * Tokenomics
+* Mining & Supply
 * Ecosystem
 * Adoption
-* Fundamental analysis
-* Risks and challenges
+* Development Activity
+* Risks & Challenges
+* Long-Term Potential
 
-## Purpose
+## Objective
 
-The objective is to evaluate ARR from a research and fundamental-analysis perspective.
+The objective is to understand Pirate Chain from a technology, fundamental, ecosystem, and long-term perspective.
 
 > This research is for educational purposes only and is not financial advice.
